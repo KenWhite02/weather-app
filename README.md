@@ -6,11 +6,9 @@ Weather App
 
 ![weather1](https://user-images.githubusercontent.com/68158625/102899254-b3044600-447b-11eb-87ca-f6987b3cf3b2.png)
 
-![weather2](https://user-images.githubusercontent.com/68158625/102899294-c1526200-447b-11eb-891e-5e27c437ea65.png)
-
 ## Technologies Used
 
-React JS
+React JS &
 Axios
 
 ## API
