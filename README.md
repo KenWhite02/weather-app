@@ -8,12 +8,17 @@ Weather App
 
 ## Technologies Used
 
-React JS &
-Axios
+This project was created using `React.`
 
-## API
+Its aim was to display current weather conditions of a particular place.
 
-Open Weather Api from [openweathermap.org](openweathermap.org)
+This was achieved by using the `Axios` library which was used to fetch data from the `Open Weather Map Api.`
+
+The data retrieved was used in displaying Weather Conditions of a certain place.
+
+### `Api Reference`
+
+For more info about the `Open Weather Map Api` feel free to check out the docs at [openweathermap.org](openweathermap.org)
 
 ## Installation
 
