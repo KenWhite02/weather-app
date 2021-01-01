@@ -18,7 +18,7 @@ The data retrieved was used in displaying Weather Conditions of a certain place.
 
 ### `Api Reference`
 
-For more info about the `Open Weather Map Api` feel free to check out the docs at [openweathermap.org](openweathermap.org)
+For more info about the `Open Weather Map Api` feel free to check out the docs at [https://openweathermap.org/api](https://openweathermap.org/api)
 
 ## Installation
 
